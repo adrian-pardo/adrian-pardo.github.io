@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Adrian Pardo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Adrian.Pardo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Cerritos, CA"
   email            :
@@ -115,7 +115,8 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "Website"
+      # used to be label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/adrian-pardo/"
     - label: "Twitter"
@@ -299,4 +300,4 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single   
+      layout: single
