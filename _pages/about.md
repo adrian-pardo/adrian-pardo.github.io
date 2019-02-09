@@ -2,7 +2,7 @@
 title: "About"
 permalink: "/about/"
 header:
-  image: "/images/PetronasTowers.JPG"
+  image: "/images/Monteverde.jpg"
 ---
 
 I'm an aspiring data scientist who excels at machine learning, exploratory
