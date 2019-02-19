@@ -6,25 +6,26 @@ tags: [machine learning, data science, neural network, data visualization, neuro
   # image: "images/perceptron/neuron.png"
 excerpt: "Visualization of Perceptron Logic Gates using sklearn and matplotlib"
 mathjax: "true"
-
+classes: wide
 ---
-
-## Visualization of Perceptron Logic Gates using sklearn and matplotlib
+# Visualization of Perceptron Logic Gates using sklearn and matplotlib
 
 In this project, I used perceptrons to model the fundamental building blocks of computers — logic gates.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/logicgate.png" alt="logic gates ">
+Comparison of AND, OR, XOR Logic Gates: <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/logicgate.png" alt="logic gates ">
 
-This project helped me conceptualize the inner workings of an artificial neural network by examining the limitations of its basic building block, the perceptron. Considering my neuroscience background, I found it particularly helpful to compare the perceptron to its biological equivalent, the neuron. In the human brain, neural nets are composed of multiple *neurons*. Conversely, artificial neural nets are composed of multiple *perceptrons*.
+This project helped me conceptualize the inner workings of an artificial neural network by examining the limitations of its basic building block, the perceptron. Considering my neuroscience background, I found it particularly helpful to compare the perceptron to its biological equivalent, the neuron.
+
+In the human brain, neural nets are composed of multiple *neurons*. Conversely, artificial neural nets are composed of multiple *perceptrons*.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/neuron.png" alt="neuron vs perceptron">
 
-A biological neuron has:
+A *biological neuron* has:
 1. **Dendrites** to receive signals
 2. A **cell body** to process these signals
 3. An **axon** to send signals out to other neurons
 
-A perceptron has:
+A *perceptron* has:
 1. A number of **input channels**
 2. A **processing stage**
 3. **One output** that can fan out to multiple other artificial neurons
@@ -68,11 +69,13 @@ First, let's visualize AND, OR, and XOR Logic Gates using coordinate points:
     plt.show()
 ```
 
+
 From this code we obtain this graph: <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/3_logic_gates.png" alt=" 3 logic gates ">
+
 
 In this context "linearly separable" means that a line could be drawn that would entirely separate the colored dots. This line can be drawn on the AND, OR graphs indicating that these logic gates are linearly separable. This line cannot be drawn on the XOR graph, indicating that the XOR logic gate is not linearly separable:
 
-im<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/3_logic_gates_edit.png" alt="3 logic gates">
+<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/3_logic_gates_edit.png" alt="3 logic gates">
 
 We can further support these findings by obtaining the accuracy of the perceptron model when fitted to each gate:
 ```python
@@ -92,8 +95,7 @@ We can further support these findings by obtaining the accuracy of the perceptro
     #output of 0.5 indicates that 50% of the time, model was able to correctly determine output given data
 ```
 
-An output score of 1.0 confirms that the AND, OR logic gates are linearly separable.
-An output score of 0.5 confirms that the XOR logic gate is NOT linearly separable.
+An output score of 1.0 confirms that the AND, OR logic gates are linearly separable. An output score of 0.5 confirms that the XOR logic gate is NOT linearly separable.
 
 However, we're not done yet. We can use a decision function to determine the distance between a coordinate point and the logic gate's decision boundary.
 
@@ -125,11 +127,11 @@ We can then utilize this decision function to create a heatmap indicating the re
     plt.show()
 ```
 This code gives us this graph:
-im<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/AND_gate_heatmap.png" alt="AND gate heatmap">
+<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/AND_gate_heatmap.png" alt="AND gate heatmap">
 
 This process can then be repeated for the OR and XOR gates:
-im<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/OR_gate_heatmap.png" alt="OR gate heatmap">
-im<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/XOR_gate_heatmap.png" alt="XOR gate heatmap">
+<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/OR_gate_heatmap.png" alt="OR gate heatmap">
+<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/XOR_gate_heatmap.png" alt="XOR gate heatmap">
 
 
 The biggest takeaway from this project is that a single perceptron only has the capability to solve problems that are linearly separable. However, if multiple perceptrons are combined, then a neural net is created which can then solve all kinds of problems! More on neural nets in future posts! :D
