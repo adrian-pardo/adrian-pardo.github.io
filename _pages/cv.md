@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-[Also available in PDF format.](adrian-pardo.github.io/images/CV_AdrianPardo.pdf)
+[Also available in PDF format.](https://adrian-pardo.github.io/images/CV_AdrianPardo.pdf)
 
 ***
 
