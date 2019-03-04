@@ -6,6 +6,8 @@ redirect_from:
   - /resume
 ---
 
+***
+
 # Education
 
 ***
@@ -15,3 +17,5 @@ redirect_from:
 ***
 
 # Publications
+
+***
