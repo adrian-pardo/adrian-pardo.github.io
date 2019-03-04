@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Adrian Pardo"
   avatar           : "/images/Adrian.Pardo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "aspiring data scientist | facinated by convergence of neuroscience & machine learning | favorite hobby: electronic & hip-hop music production"  # "Data Science Portfolio"
+  bio              : "aspiring data scientist | neuroscience & machine learning | electronic & hip-hop music production"  # "Data Science Portfolio"
   location         : "Cerritos, CA"
   email            :
   linkedin: "adrian-pardo"
