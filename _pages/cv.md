@@ -48,6 +48,7 @@ underrepresented groups afflicted with osteoarthritis.
 paperwork, clarifying potential treatment options, gathering feedback, and using REDCAP database.
 * Served as liaison between research site, clinical trial network staff, collaborators and investigators.
 
+
 **Research Assistant**
 
 *University of California, Riverside: Department of Psychology*
@@ -57,6 +58,7 @@ paperwork, clarifying potential treatment options, gathering feedback, and using
 * Researched iconic memory in humans by working with over 100 study participants over a 10-month period.
 * Operated MATLAB software to administer computational neuroscience memory tests, electrophysiological (EEG) recordings, and eye-tracking experiments to collect quantitative information regarding human memory.
 
+
 **Research Assistant**
 
 *University of California, Riverside: Department of Botany & Plant Sciences*
@@ -65,6 +67,8 @@ paperwork, clarifying potential treatment options, gathering feedback, and using
 
 * Performed statistical significance testing (e.g. ANOVA) to determine efficiency of biofuels from transgenic tobacco plants.
 * Collected quantitative and qualitative data by completing over twenty wet lab procedures to prepare glycosyl composition of whole cell wall fraction, highly purified tobacco cell walls, and alcohol-insoluble residues.
+
+***
 
 # Skills
 
