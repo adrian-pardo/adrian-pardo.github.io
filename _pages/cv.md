@@ -13,8 +13,9 @@ redirect_from:
 # Education
 
 **B.A. NEUROSCIENCE**
-University of California, Riverside
-SEP 2013 - JUN 2016
+
+*University of California, Riverside*
+*SEP 2013 - JUN 2016*
 
 Relevant Coursework:
 * Statistical Computing (SAS & R)
@@ -33,8 +34,10 @@ Additional Coursework:
 # Research Experience
 
 **Research Coordinator**
-*PIH Health Hospital, Whittier, CA
-OCT 2016 - JAN 2018*
+
+*PIH Health Hospital, Whittier, CA*
+
+*OCT 2016 - JAN 2018*
 
 * Managed Clinical Trial Phases II-III as part of a nationwide team comprised of physicians and research
 coordinators to collect data regarding the viability of shared-decision making as a teaching tool for
@@ -58,7 +61,7 @@ MAR 2014 - JUN 2015*
 * Performed statistical significance testing (e.g. ANOVA) to determine efficiency of biofuels from transgenic tobacco plants.
 * Collected quantitative and qualitative data by completing over twenty wet lab procedures to prepare glycosyl composition of whole cell wall fraction, highly purified tobacco cell walls, and alcohol-insoluble residues.
 
-#Skills
+# Skills
 
 * Proficiency in **Python**
   * Utilization of ipython, jupyter notebooks
@@ -82,9 +85,9 @@ MAR 2014 - JUN 2015*
 
 ***
 
-* Languages
+# Languages
 
-Spanish--Native Speaker
+**Spanish**--Native Speaker
 
 ***
 
