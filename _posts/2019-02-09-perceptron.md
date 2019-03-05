@@ -1,9 +1,20 @@
+---
+title: "Machine Learning Project: Perceptron Logic Gates"
+date: 2019-02-09
+tags: [machine learning, data science]
+#header:
+  # image: "images/perceptron/neuron.png"
+excerpt: "Visualization of Perceptron Logic Gates using sklearn and matplotlib"
+mathjax: "true"
+classes: wide
+
+---
 
 # Project: Visualization of Perceptron Logic Gates
 
 In this project, I will use perceptrons to model the fundamental building blocks of computers — logic gates. Specifically, I will show how a perceptron can be used as a *linear classifier* by visualizing the *decision boundary* of particular set of data. In this case, I will show how:
-* AND, OR logic gates can represent linearly seperable data
-* a XOR logic gate can represent data that is not linearly seperable
+* AND, OR logic gates can represent linearly separable data
+* a XOR logic gate can represent data that is not linearly separable
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/logicgate.png" alt="logic gates">
 
@@ -75,14 +86,14 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](/images/perceptron/output_10_0.png)
 
 
-In the context of our logic gate problem, "linearly separable" means that a straight line, formally known as `decision boundary`, could be drawn somewhere on our scatterplot that would entirely separate the colored dots. 
+In the context of our logic gate problem, "linearly separable" means that a straight line, formally known as `decision boundary`, could be drawn somewhere on our scatterplot that would entirely separate the colored dots.
 
 Take a look at the illustration below. Using the eyeball test, we can guess that our decision boundary is somewhere close to the drawn red lines.
 
-A line can be drawn on the AND, OR graphs indicating that these logic gates are linearly separable. This line cannot be drawn on the XOR graph, indicating that the XOR logic gate is not linearly separable. 
+A line can be drawn on the AND, OR graphs indicating that these logic gates are linearly separable. This line cannot be drawn on the XOR graph, indicating that the XOR logic gate is not linearly separable.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/3_logic_gates_edit.png" alt="3 logic gates">
 
@@ -100,7 +111,7 @@ classifier = Perceptron(max_iter=40, tol=1e-3)
 
 Normally, we wouldn't train and test our model on the same dataset. However, in our scenario there are only four possible inputs to each gate, so we're stuck training on every possible input and testing on those same points.
 
-We can use the `.score()` method to print the accuracy of the model on the data points. 
+We can use the `.score()` method to print the accuracy of the model on the data points.
 
 
 ```python
@@ -172,7 +183,7 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![png](/images/perceptron/output_23_0.png)
 
 
 
@@ -193,7 +204,7 @@ plt.show()
 ```
 
 
-![png](output_24_0.png)
+![png](/images/perceptron/output_24_0.png)
 
 
 
@@ -214,7 +225,7 @@ plt.show()
 ```
 
 
-![png](output_25_0.png)
+![png](/images/perceptron/output_25_0.png)
 
 
 ## Analysis
