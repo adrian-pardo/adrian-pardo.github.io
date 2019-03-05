@@ -1,8 +1,8 @@
 ---
 #layout: archive
-title: "Research"
+<!-- title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: true -->
 ---
 
-test 2
+test 3
