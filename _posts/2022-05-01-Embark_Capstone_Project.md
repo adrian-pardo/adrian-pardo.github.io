@@ -1,6 +1,6 @@
 ---
 title: "Capstone Project: Dog Diseases Classification and Prediction though Genetic Composition"
-date: 2021-05-05
+date: 2022-05-01
 tags: [machine learning, data science]
 excerpt: "Predicting disease in dogs with pandas, sklearn, matplotlib"
 mathjax: "true"
