@@ -9,17 +9,32 @@ redirect_from:
   - /about.html
 ---
 
-**I am a firm believer that machine learning—when paired with intuition and knowledge—can allow us to uncover meaningful patterns in real world data, mitigate workflow inefficiencies, and facilitate insightful action across various industries.**
+**I am a firm believer that data science and machine learning—when paired with intuition and domain knowledge—can allow us to uncover meaningful patterns in real world data, mitigate workflow inefficiencies, and facilitate insightful action across various industries.**
 
 ### Some information about my educational and work history:
 
-Shortly after earning my neuroscience degree from UCR in 2016, I obtained a job as a **research coordinator** at a hospital and joined a nationwide team composed of physicians and other researchers. Our goals were to promote health literacy among underrepresented groups afflicted with osteoarthritis and, ultimately, enable this subset of people to make better decisions regarding their health. This mission resonated with me, for I had worked as a **personal trainer** since 2014 and sought to explore new avenues for mitigating obesity comorbidities.
+**My career path to becoming a data scientist has not been linear.** 
 
-By joining this research team, *I witnessed firsthand how algorithms could be utilized in a real world setting to derive insightful action for specific problems*. In the context of our project, we would use an algorithm to generate a personalized set of potential treatment options based on a patient’s unique data, and then we would teach this information to patients using “shared-decision making” as our didactic approach.
+From the 2nd grade all the way until I earned my neuroscience degree from UCR in 2016, I was dead set on becoming a physician. For several reasons, I decided that I no longer wanted to become a physician. From 2016 to 2018, I worked multiple jobs seeking inspiration for a new career path. Some of those jobs included:
 
-Seeking to replicate this algorithmic approach for future endeavors, I taught myself how to utilize **Python** and **SQL** for their machine learning and database querying capabilities, respectively. Currently, I am working to expand my machine learning skills in areas such as: **deep learning, natural language processing, and computer vision**. For example, one of my ambitions is to develop a *“virtual personal trainer”* interface capable of recommending personalized lifestyle changes by autonomously learning and adapting to the specific lifestyle habits of its respective owner.
+- Calendar Salesman
+- CNC Machinist
+- Personal Trainer
+- After-school teacher
+- Personal Therapy Aide
+- Camp Counselor
+- Medical Research Coordinator
 
-**To me, data science and machine learning are only as useful as the actions that can be taken from their mathematical output.** ***Let’s get to work.***
+I was first exposed to the field of *data science* during my time as a **research coordinator**. I joined a nationwide team composed of physicians and other researchers; our goals were to promote health literacy among underrepresented groups afflicted with osteoarthritis and, ultimately, enable this subset of people to make better decisions regarding their health. In the context of our research project, we would use an algorithm to generate a personalized set of potential treatment options based on a patient’s unique data, and then we would teach this information to patients using “shared-decision making” as our didactic approach. This mission resonated with me and *I witnessed firsthand how algorithms could be utilized in a real world setting to derive insightful action for specific problems*. 
+
+Seeking to shift my future career prospects, I taught myself how to utilize **Python** and **SQL** for their machine learning and database querying capabilities, respectively. Afterwards: 
+
+- In 2019, I obtained a job at Cottage Health Hospital as a **Research Data Analyst**
+- In 2020, I enrolled in a **Master of Science in Analytics program at Georgia Institute of Technology**. 
+- In 2021, I began to work as a **Data Scientist Consultant**.
+- In 2022, **I graduated with a MS in Analytics.**
+
+**I am currently seeking new opportunities that will allow me to apply my skills in new contexts. To me, data science and machine learning are only as useful as the actions that can be taken from their mathematical output.** ***Let’s get to work.***
 
 *Sincerely,*
 
