@@ -23,9 +23,9 @@ From the 2nd grade all the way until I earned my neuroscience degree from UCR in
 - After-school teacher
 - Personal Therapy Aide
 - Camp Counselor
-- Medical Research Coordinator
+- Research Data Coordinator
 
-I was first exposed to the field of *data science* during my time as a **research coordinator**. I joined a nationwide team composed of physicians and other researchers; our goals were to promote health literacy among underrepresented groups afflicted with osteoarthritis and, ultimately, enable this subset of people to make better decisions regarding their health. In the context of our research project, we would use an algorithm to generate a personalized set of potential treatment options based on a patient’s unique data, and then we would teach this information to patients using “shared-decision making” as our didactic approach. This mission resonated with me and *I witnessed firsthand how algorithms could be utilized in a real world setting to derive insightful action for specific problems*. 
+I was first exposed to the field of *data science* during my time as a **Research Data Coordinator**. I joined a nationwide team composed of physicians and other researchers; our goals were to promote health literacy among underrepresented groups afflicted with osteoarthritis and, ultimately, enable this subset of people to make better decisions regarding their health. In the context of our research project, we would use an algorithm to generate a personalized set of potential treatment options based on a patient’s unique data, and then we would teach this information to patients using “shared-decision making” as our didactic approach. This mission resonated with me and *I witnessed firsthand how algorithms could be utilized in a real world setting to derive insightful action for specific problems*. 
 
 Seeking to shift my future career prospects, I taught myself how to utilize **Python** and **SQL** for their machine learning and database querying capabilities, respectively. Afterwards: 
 
