@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[PDF link](https://adrian-pardo.github.io/images/CV_AdrianPardo.pdf)
 <embed src="{{ site.url }}{{ site.baseurl }}/images/CV_AdrianPardo.pdf" width="500" height="375" type="application/pdf">
 
 ***
