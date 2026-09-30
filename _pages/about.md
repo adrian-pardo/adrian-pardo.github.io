@@ -13,7 +13,7 @@ redirect_from:
 
 ### Some information about my educational and work history:
 
-**My career path to becoming a data scientist has not been linear.** 
+**My career path to becoming a data scientist has not been linear.**
 
 From the 2nd grade all the way until I earned my neuroscience degree from UCR in 2016, I was dead set on becoming a physician. For several reasons, I decided that I no longer wanted to become a physician. From 2016 to 2018, I worked multiple jobs seeking inspiration for a new career path. Some of those jobs included:
 
@@ -25,16 +25,17 @@ From the 2nd grade all the way until I earned my neuroscience degree from UCR in
 - Camp Counselor
 - Research Data Coordinator
 
-I was first exposed to the field of *data science* during my time as a **Research Data Coordinator**. I joined a nationwide team composed of physicians and other researchers; our goals were to promote health literacy among underrepresented groups afflicted with osteoarthritis and, ultimately, enable this subset of people to make better decisions regarding their health. In the context of our research project, we would use an algorithm to generate a personalized set of potential treatment options based on a patient’s unique data, and then we would teach this information to patients using “shared-decision making” as our didactic approach. This mission resonated with me and *I witnessed firsthand how algorithms could be utilized in a real world setting to derive insightful action for specific problems*. 
+I was first exposed to the field of *data science* during my time as a **Research Data Coordinator**. I joined a nationwide team composed of physicians and other researchers; our goals were to promote health literacy among underrepresented groups managing obesity-related conditions like joint pain, hypertension, and type 2 diabetes and, ultimately, enable this subset of people to make better decisions regarding their health. In the context of our research project, we would use an algorithm to generate a personalized set of potential treatment options based on a patient's unique data, and then we would teach this information to patients using "shared-decision making" as our didactic approach. This mission resonated with me and *I witnessed firsthand how algorithms could be utilized in a real world setting to derive insightful action for specific problems*.
 
-Seeking to shift my future career prospects, I taught myself how to utilize **Python** and **SQL** for their machine learning and database querying capabilities, respectively. Afterwards: 
+Seeking to shift my future career prospects, I taught myself how to utilize **Python** and **SQL** for their machine learning and database querying capabilities, respectively. Afterwards:
 
 - In 2019, I obtained a job at Cottage Health Hospital as a **Research Data Analyst**
-- In 2020, I enrolled in a **Master of Science in Analytics program at Georgia Institute of Technology**. 
-- In 2021, I began to work as a **Data Scientist Consultant**.
+- In 2020, I enrolled in a **Master of Science in Analytics program at Georgia Institute of Technology** and began working as a **Data Scientist & ML Engineer Consultant**.
 - In 2022, **I graduated with a MS in Analytics.**
+- In 2023, I took on an additional role as **Senior Data Scientist** at Trinity Health Hospital, evaluating Epic's built-in predictive models like the Sepsis Cognitive Model, while continuing my consulting work.
+- In 2024, I returned to consulting full-time.
 
-**I am currently seeking new opportunities that will allow me to apply my skills in new contexts. To me, data science and machine learning are only as useful as the actions that can be taken from their mathematical output.** ***Let’s get to work.***
+**I am currently seeking a full-time opportunity that will let me bring these skills back to health care specifically. To me, data science and machine learning are only as useful as the actions that can be taken from their mathematical output.** ***Let's get to work.***
 
 *Sincerely,*
 
